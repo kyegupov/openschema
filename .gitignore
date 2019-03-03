@@ -61,4 +61,4 @@ typings/
 .next
 
 # We use Typescript
-.js
+*.js

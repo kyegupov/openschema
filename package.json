@@ -1,0 +1,24 @@
+{
+  "name": "openschema",
+  "version": "0.0.1",
+  "description": "",
+  "main": "jsonschema_parser.js",
+  "dependencies": {
+    "@types/json-schema": "^7.0.3",
+    "@types/node": "^11.10.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyegupov/openschema.git"
+  },
+  "author": "kyegupov4@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyegupov/openschema/issues"
+  },
+  "homepage": "https://github.com/kyegupov/openschema#readme"
+}
